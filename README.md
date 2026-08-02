@@ -1,4 +1,4 @@
-# Invoice Manager
+# Invoice Automation Platform
 
 A full-stack Java Spring Boot application for creating, managing, and tracking invoices with secure authentication, customer management, PDF generation, and RESTful APIs.
 
